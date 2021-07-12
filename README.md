@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://zetarck.github.io/Style-price-grid-component/)
+-  [Live Site](https://zetarck.github.io/Style-price-grid-component/)
 
 ## My process
 
