@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+-  [Solution](https://www.frontendmentor.io/solutions/html-and-css-using-flexbox-AD9bu65_j)
 -  [Live Site](https://zetarck.github.io/Style-price-grid-component/)
 
 ## My process
